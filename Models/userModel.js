@@ -1,5 +1,5 @@
 
-import bcrypt from "bcryptjs/dist/bcrypt.js";
+import bcrypt from "bcryptjs";
 import mongoose from "mongoose";
 import jwt from 'jsonwebtoken'
 import  dotenv  from "dotenv";
